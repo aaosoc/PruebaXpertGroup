@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="50a3793f-028f-4419-84f2-7dbd545e73ab" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:58198/CubeSumService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CubeSumService.disco" MetadataType="Disco" ID="d0394598-631e-4b8c-9ea5-1cca58ed5f2b" SourceId="1" SourceUrl="http://localhost:58198/CubeSumService.svc?disco" />
+    <MetadataFile FileName="Service.wsdl" MetadataType="Wsdl" ID="4ed3a56b-894e-485a-b284-962152f4002a" SourceId="1" SourceUrl="http://localhost:58198/CubeSumService.svc?wsdl" />
+    <MetadataFile FileName="CubeSumService3.xsd" MetadataType="Schema" ID="692abd98-642a-4615-b699-dd4a7fc5d168" SourceId="1" SourceUrl="http://localhost:58198/CubeSumService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CubeSumService.xsd" MetadataType="Schema" ID="ffb32066-8467-4edd-963a-4a61d1837fdc" SourceId="1" SourceUrl="http://localhost:58198/CubeSumService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CubeSumService1.xsd" MetadataType="Schema" ID="901db43c-30f2-442d-9ce9-132c7ae62b57" SourceId="1" SourceUrl="http://localhost:58198/CubeSumService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

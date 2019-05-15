@@ -1,0 +1,15 @@
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\XpertGroup.Business.dll
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\XpertGroup.Business.pdb
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\obj\Debug\XpertGroup.Business.csprojAssemblyReference.cache
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\obj\Debug\XpertGroup.Business.csproj.CoreCompileInputs.cache
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\obj\Debug\XpertGroup.Business.dll
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\obj\Debug\XpertGroup.Business.pdb
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\Castle.Core.dll
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\Castle.Windsor.dll
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\Castle.Core.xml
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\Castle.Windsor.xml
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\obj\Debug\XpertGroup.Business.csproj.CopyComplete
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\log4net.dll
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\XpertGroup.Utils.dll
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\XpertGroup.Utils.pdb
+C:\Users\alqui\source\repos\XpertGroup\XpertGroup.Business\bin\Debug\log4net.xml
